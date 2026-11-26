@@ -17,3 +17,4 @@ models/
 | Категория | Модель | Назначение |
 |---|---|---|
 | [Аксессуары для рабочего места](models/desk-accessories/) | [Arc 14 Flush](models/desk-accessories/arc14-flush/) | Пара опор для установки MacBook Pro 14″ (2021) под столешницей с верхней кромкой вровень со столом |
+| [Аксессуары для дома](models/household-accessories/) | [Brush Holder 6](models/household-accessories/brush-holder-6/) | Компактная планка на шесть щёток |
